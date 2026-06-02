@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/akasha-os/akasha/discussions
+    about: Use Discussions for questions, not issues
+  - name: Security vulnerability
+    url: https://github.com/akasha-os/.github/blob/main/SECURITY.md
+    about: Please read our security policy before reporting a vulnerability
